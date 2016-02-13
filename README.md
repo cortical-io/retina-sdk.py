@@ -1,4 +1,4 @@
-# retina-sdk.py
+# retina-sdk.py - A Python Client for the Cortical.io Retina API
 
 Pure Python wrapper library for [Cortical.io's Retina API](http://api.cortical.io/). Register for a 
 [free API key](http://www.cortical.io/resources_apikey.html) and include retina-sdk.py to add language intelligence to 
