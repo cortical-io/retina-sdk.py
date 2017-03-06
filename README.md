@@ -102,8 +102,7 @@ Using this client, you will have access to the full functionality of
 
 As with the LiteClient, the FullClient must be instantiated with a valid Cortical.io API key, but you can also change 
 the default host address (in case you have your own 
-[AWS](https://aws.amazon.com/marketplace/seller-profile?id=c88ca878-a648-464c-b29b-38ba057bd2f5) or 
-[Azure](https://azure.microsoft.com/en-us/marketplace/partners/cortical-io/cortical-io-retinaservice-eng-gen/) instance),
+[AWS](https://aws.amazon.com/marketplace/seller-profile?id=c88ca878-a648-464c-b29b-38ba057bd2f5) instance),
 as well as which retina to use.
 
 ```python
